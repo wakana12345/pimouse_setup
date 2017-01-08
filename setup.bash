@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#written by R. Ueda
      
 exec 2> /tmp/setup.log
      

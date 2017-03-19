@@ -1,2 +1,3 @@
 # pimouse_setup
-Setup scripts for Raspberry Pi Mouse (for the Raspberry Pi Mouse book)
+
+「Raspberry Piで学ぶ ROSロボット入門」の4章で作る、デバイスドライバのインストーラです。
